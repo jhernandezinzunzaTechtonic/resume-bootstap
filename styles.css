@@ -1,4 +1,4 @@
-h1, h2 {
+h2 {
   color: darkred;
 }
 
@@ -22,14 +22,12 @@ li {
   margin-right: 75px;
 }
 #myBtn {
-  width: 40px;
+  width: 60px;
   height: 40px;
   text-align: center;
 	position: fixed;
 	left: 0px;
 	top: 75%;
-	background-color: salmon;
-
 }
 
 .bg-1 {
