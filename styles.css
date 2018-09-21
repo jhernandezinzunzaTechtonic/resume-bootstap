@@ -1,0 +1,69 @@
+h1, h2 {
+  color: darkred;
+}
+
+h3 {
+  color: #505050;
+  text-indent: 10px;
+  margin-bottom: 5px;
+}
+
+p {
+  text-align: left;
+  text-indent: 10px;
+  margin-left: 75px;
+  margin-right: 75px;
+}
+li {
+  list-style-type: square;
+  text-align: left;
+  text-indent: 10px;
+  margin-left: 75px;
+  margin-right: 75px;
+}
+#myBtn {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+	position: fixed;
+	left: 0px;
+	top: 75%;
+	background-color: salmon;
+
+}
+
+.bg-1 {
+  background-color: navajoWhite;
+}
+
+
+.about div, h1, p {
+  text-align: center;
+  color: #404040
+}
+
+.seperator-one {
+  background-color: green;
+  opacity: .8;
+  height: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.seperator-two {
+  background-color: green;
+  opacity: .75;
+  height: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+}
+
+.responsibilites {
+  color: black;
+}
+
+.job-title {
+  text-transform: uppercase;
+  text-align: right;
+}
